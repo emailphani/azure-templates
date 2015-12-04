@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "stdStorageName": {
-      "value": "phanistoragestd009"
+      "value": "phanistoragestdk"
     },
     "stdStorageType": {
       "value": "Standard_LRS"
     },
     "prmStorageName": {
-      "value": "phanistorageprm009"
+      "value": "phanistorageprmk"
     },
     "prmStorageType": {
       "value": "Premium_LRS" 
