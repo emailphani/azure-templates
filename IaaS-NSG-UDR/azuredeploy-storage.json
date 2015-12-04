@@ -4,7 +4,7 @@
   "parameters": {
     "stdStorageName": {
       "type": "string",
-      "defaultValue": "phanistoragestd007",
+      "defaultValue": "phanistoragestd009",
       "metadata": {
         "description": "Name for simple storage account."
       }
@@ -20,7 +20,7 @@
     },
     "prmStorageName": {
       "type": "string",
-      "defaultValue": "phanistorageprm007",
+      "defaultValue": "phanistorageprm009",
       "metadata": {
         "description": "Name for simple Premium account."
       }
