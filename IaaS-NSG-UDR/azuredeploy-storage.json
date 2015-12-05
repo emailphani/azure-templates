@@ -4,7 +4,7 @@
   "parameters": {
     "stdStorageName": {
       "type": "string",
-      "defaultValue": "phanistoragestdk",
+      "defaultValue": "phani12052015std",
       "metadata": {
         "description": "Name for simple storage account."
       }
@@ -20,7 +20,7 @@
     },
     "prmStorageName": {
       "type": "string",
-      "defaultValue": "phanistorageprmk",
+      "defaultValue": "phani12052015prm",
       "metadata": {
         "description": "Name for simple Premium account."
       }
